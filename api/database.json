@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": "07/24/2018",
+      "concept": "Array methods",
+      "entry": "We learned about 4 different array methods today. forEach made sense, but the others still confuse me.",
+      "mood": "Ok"
+    },
+    {
+      "date": "2018-12-28",
+      "concept": "not much",
+      "entry": "nice outside",
+      "mood": "happy",
+      "id": 2
+    },
+    {
+      "date": "2018-12-26",
+      "concept": "replace",
+      "entry": "i learned how to mass replace",
+      "mood": "deadinside",
+      "id": 3
+    },
+    {
+      "date": "2018-12-26",
+      "concept": "replace",
+      "entry": "i learned how to mass replace",
+      "mood": "deadinside",
+      "id": 4
+    },
+    {
+      "date": "2018-12-18",
+      "concept": "asdasdasdaa",
+      "entry": "asdasdas",
+      "mood": "livvid",
+      "id": 5
+    },
+    {
+      "date": "",
+      "concept": "",
+      "entry": "",
+      "mood": "sad",
+      "id": 6
+    }
+  ]
+}
