@@ -54,8 +54,6 @@ fetch("http://localhost:8088/entries")
     .then(parsaeddatabase => {
         console.table(parsaeddatabase)
     })
-
-//post call of journal entry to json file    
 const data = {
     postjournalEntry(journalEntry) {
         fetch("http://localhost:8088/entries", {
