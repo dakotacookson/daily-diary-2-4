@@ -74,6 +74,15 @@ function startUp() {
     }
     writeToDom(journalValue);
 }
+let fillin = document.querySelector("#sections")
+let radioButton = document.querySelector("#radiobutton1")
+radioButton.addEventListener("click", event => {
+    journalEntries.forEach(journalEntries => {
+       let finllin1 = journalEntries.filter(Sad)
+        fillin.innerHTML = finllin1
+    });
+})
+
 
 // startup call
 startUp();
